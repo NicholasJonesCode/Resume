@@ -81,7 +81,7 @@ Main Projects:
 
 ### Where am I at right now?
 
-Since my initial time with Mastercard, I had to resign temporarily for some personal and family issues. But I've gotten to the point where I am actually now craving a project to work on. I miss working with a team or partner, diving into complexities, and the satisfaction of making things work.
+Since my initial time with Mastercard, I had to resign temporarily for some personal mental health and family issues. But I've gotten to the point where I am actually now craving a project to work on. I miss working with a team or partner, diving into complexities, and the satisfaction of making things work.
 
 During my time away though, I have still been studious. I discovered blockchain technology, and have already developed some prototypes for large-scale De-Fi projects using the Ethereum and Solana blockchains, both of which I use personally as well. Besides learning the inner-workings of various blockchains, it allowed me to learn Solidity, which is an EVM language, and Rust, a lower-level language with a completely different paradigm and coding style than what I am used to (Java/Python). I'm vary passionate about Rust, and would love the opportunity to work on something more serious so I can master it.
 
