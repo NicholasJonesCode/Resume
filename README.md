@@ -62,11 +62,11 @@ Main Projects:
  - IBM Datapower:
    - Used Datapower as solution for Enterprise Service Bus (ESB). Small core team including myself and 2 other senior devs.
    - Developer for microservices and service onboarding for the DEV environment, integrating services for various teams wishing to provide services for other development projects. These services were usually SOAP XML based, JSON/REST based, or other older mainframe services, all having a unique translation or integration, sometimes with minimal passthrough, and sometimes with XSLX based translation.
-   - Development of new and routine infrastructures and tools to help team manage the Datapower product, especially in logging, monitoring, certificate management, custom self-service tools, and custon microservices for testing.
-   - Main contact for teams in active development and onboarding of their service to Datapower, inclduing assistance in debugging, problem solving, and authentication/authorization onboarding. Often worked with a seperate team managing ISAM and LDAP stacks for Auth-based onboarding for the service teams
+   - Development of new and routine infrastructures and tools to help team manage the Datapower product, especially in logging, monitoring, certificate management, custom self-service tools, and custom microservices for testing.
+   - Main contact for teams in active development and onboarding of their service to Datapower, including assistance in debugging, problem solving, and authentication/authorization onboarding. Often worked with a seperate team managing ISAM and LDAP stacks for Auth-based onboarding for the service teams
    - Developer for a large Java/Springboot based codebase for 20+ complex automation tasks used for metrics, onboarding, updates/upgrades, and moving to higher environments, as well as backups and sync-ups
    - Pipelines were executed on Jenkins CI/CD servers using matching Groovy-based scripts, with full logging and email support for debugging and completions.
-   - Support role and main contact for Business Ops teams, assissting them in operating or debugging pipelines for their necessary work such as moving to higher environments).
+   - Support role and main contact for Business Ops teams, assisting them in operating or debugging pipelines for their necessary work such as moving to higher environments.
 
 ## Personal thoughts and endeavours
 
