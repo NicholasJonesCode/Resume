@@ -4,7 +4,7 @@
 
 Current Residency: OFallon, Missouri
 
-Contact: 636-212-3253  |  nicholasjonescode@protonmail.com
+Contact: 810-331-0175  |  nicholasjonescode@protonmail.com
 
 Github: https://github.com/NicholasJonesCode
 
